@@ -1,5 +1,5 @@
 ## Welcome to GitHub Games
-### Ajuste eggp73
+###_ Ajuste eggp73
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
