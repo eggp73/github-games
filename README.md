@@ -1,6 +1,6 @@
 ## Welcome to GitHub Games
 ###
-# _Ajuste eggp73_*
+# *_Ajuste eggp73_*
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
